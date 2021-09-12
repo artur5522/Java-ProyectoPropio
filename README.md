@@ -1,3 +1,3 @@
-# Java-ProyectoPropio
-Simulo el software de una institución educativa, por consola sin interfaz gráfica, con diferentes usuarios y funcionalidades.
-Trabajo realizado en el IDE NetBeans
+# Java-OwnProyect
+A simple console application, in spanish, of an educational institution with different users and functions.
+

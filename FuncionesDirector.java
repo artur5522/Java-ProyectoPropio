@@ -35,7 +35,7 @@ public class FuncionesDirector {
         } else if (opcion.equals("5")) {
             Proyecto_escuela_main.bienvenida();
         } else {
-            System.out.println("Comando no reconocido.GGGGGGGG Intente nuevamente");
+            System.out.println("Comando no reconocido. Intente nuevamente");
             usuarioDirector();
         }
     }

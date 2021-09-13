@@ -9,7 +9,7 @@ import java.util.*;
 
 /**
  *
- * @author artur
+ * @author ARTURO RODRIGUEZ
  */
 public class Alumno {
     

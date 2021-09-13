@@ -2,8 +2,9 @@
 SE PIDEN DATOS EXTRAS AL FAMILIAR 
  */
 package proyecto_escuela;
-/** 
- * @author User
+/**
+ *
+ * @author ARTURO RODRIGUEZ
  */
 public class FamiliarEmergencia {
     

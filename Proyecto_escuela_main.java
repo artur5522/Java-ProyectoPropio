@@ -2,10 +2,10 @@
  * EN ESTE PROYECTO SE INTENTA SIMULAR, POR CONSOLA DE IDE "NETBEENS", UN PROGRAMA DE UNA ESCUELA.
     PROVEYENDO DE DISTINTAS FUNCIONALIDADES TANTO SI SE ES AUXILIAR, COMO SI SE ES EL DIRECTOR
 AUXILIARES:
-    -USUARIO: auxuliar10  a/
+    -USUARIO: auxuliar10  
     -CONTRASEÑA: 2255
 DIRECTOR:
-    -USUARIO: director01   d/
+    -USUARIO: director01   
     -CONTRASEÑA: 8877
  */
 package proyecto_escuela;
@@ -38,9 +38,9 @@ public class Proyecto_escuela_main {
             System.out.println("Introduzca contraseña:");
             String contraseña = new Scanner(System.in).nextLine();
             System.out.println("\n");
-            if (usuario.equalsIgnoreCase("a") && contraseña.equals("2255")) {
+            if (usuario.equalsIgnoreCase("auxuliar10") && contraseña.equals("2255")) {
                 usuarioAuxiliar();
-            } else if (usuario.equalsIgnoreCase("d") && contraseña.equals("8877")) {
+            } else if (usuario.equalsIgnoreCase("director01") && contraseña.equals("8877")) {
                 FuncionesDirector.usuarioDirector();
             } else {
                 System.out.println("Uusuario o contraseña incorrectos. Intente nuevamente.");

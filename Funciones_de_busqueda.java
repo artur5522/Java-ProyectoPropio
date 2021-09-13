@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package proyecto_escuela;
 
 import java.util.ArrayList;
@@ -10,7 +6,7 @@ import static proyecto_escuela.Proyecto_escuela_main.alumnado;
 
 /**
  *
- * @author User
+ * @author ARTURO RODRIGUEZ
  */
 public class Funciones_de_busqueda {
 
@@ -34,7 +30,7 @@ public class Funciones_de_busqueda {
                 System.out.println("Domicilio: " + a.getDomicilio());
                 System.out.println("Sexo: " + a.getSexo());
                 System.out.println("Turno: " + a.getTurno());
-                System.out.println("Año lectido donde se encuentra actualmente: " + a.getAñoLectivo());
+                System.out.println("Año lectivo donde se encuentra actualmente: " + a.getAñoLectivo());
                 System.out.println("Amonestaciones a la fecha: " + a.muestraElNumeroDeAmonestaionces());
 
                 System.out.println("---------------Familiares del alumno:----------------");

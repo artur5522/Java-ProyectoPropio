@@ -5,13 +5,13 @@ package proyecto_escuela;
 
 /**
  *
- * @author User
+ * @author ARTURO RODRIGUEZ
  */
 public class Familiares {
     
     private final String nombre;
     private final String parentezco;
-    private FamiliarEmergencia familiar= new FamiliarEmergencia();
+    private FamiliarEmergencia familiar;
 
     public Familiares(String nombre, String parentezco) {
         this.nombre = nombre;

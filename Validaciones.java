@@ -8,7 +8,7 @@ import java.util.*;
 
 /**
  *
- * @author User
+ * @author ARTURO RODRIGUEZ
  */
 public class Validaciones {
 
